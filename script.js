@@ -101,7 +101,7 @@ console.log(arraysAreEqual(array1, array3));
 //11
 const countries = [
   "Узбекистан", "Таджикистан", "Азербайджан", "Кыргызстан", "Россия", 
-  "Грузия", "Армения", "Казахстан", "Турция", "Китай"
+  "Грузия", "Армения", "Казахстан", "Турция", "Китай", "Италия"
 ];
 
 const input = document.getElementById('autocomplete-input');
